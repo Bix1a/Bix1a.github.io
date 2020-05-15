@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bix1a.github.io/"/>
-  <updated>2020-05-15T18:29:01.819Z</updated>
+  <updated>2020-05-15T18:33:38.549Z</updated>
   <id>https://bix1a.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>从网鼎杯一道题来学习php反序列化</title>
-    <link href="https://bix1a.github.io/2020/05/15/cong-wang-ding-bei-yi-dao-ti-lai-xue-xi-php-fan-xu-lie-hua/"/>
-    <id>https://bix1a.github.io/2020/05/15/cong-wang-ding-bei-yi-dao-ti-lai-xue-xi-php-fan-xu-lie-hua/</id>
+    <link href="https://bix1a.github.io/posts/26107.html"/>
+    <id>https://bix1a.github.io/posts/26107.html</id>
     <published>2020-05-15T12:46:23.031Z</published>
-    <updated>2020-05-15T18:29:01.819Z</updated>
+    <updated>2020-05-15T18:33:38.549Z</updated>
     
     <summary type="html">
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://bix1a.github.io/2020/05/12/hello-world/"/>
-    <id>https://bix1a.github.io/2020/05/12/hello-world/</id>
+    <link href="https://bix1a.github.io/posts/16107.html"/>
+    <id>https://bix1a.github.io/posts/16107.html</id>
     <published>2020-05-12T08:15:17.659Z</published>
     <updated>2020-05-12T08:15:17.659Z</updated>
     
