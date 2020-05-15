@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bix1a.github.io/"/>
-  <updated>2020-05-15T18:33:38.549Z</updated>
+  <updated>2020-05-15T19:11:17.710Z</updated>
   <id>https://bix1a.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://bix1a.github.io/posts/26107.html"/>
     <id>https://bix1a.github.io/posts/26107.html</id>
     <published>2020-05-15T12:46:23.031Z</published>
-    <updated>2020-05-15T18:33:38.549Z</updated>
+    <updated>2020-05-15T19:11:17.710Z</updated>
     
     <summary type="html">
     
@@ -38,6 +38,10 @@
     
     
     
+      <category term="web安全" scheme="https://bix1a.github.io/tags/web%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="ctf" scheme="https://bix1a.github.io/tags/ctf/"/>
+    
   </entry>
   
   <entry>
@@ -45,7 +49,7 @@
     <link href="https://bix1a.github.io/posts/16107.html"/>
     <id>https://bix1a.github.io/posts/16107.html</id>
     <published>2020-05-12T08:15:17.659Z</published>
-    <updated>2020-05-12T08:15:17.659Z</updated>
+    <updated>2020-05-15T18:53:36.949Z</updated>
     
     <summary type="html">
     
